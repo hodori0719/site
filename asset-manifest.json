@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/site/static/css/main.00e6f3f0.css",
+    "main.js": "/site/static/js/main.f80f20a3.js",
+    "static/js/787.59520b8b.chunk.js": "/site/static/js/787.59520b8b.chunk.js",
+    "static/media/headshots.png": "/site/static/media/headshots.a71e2185c21aa1e3db07.png",
+    "static/media/aniembed.jpg": "/site/static/media/aniembed.6df9a1c70d140393cc14.jpg",
+    "static/media/fall-guys-3.jpg": "/site/static/media/fall-guys-3.c8923fca9fb95aeaf38b.jpg",
+    "static/media/EventiBanner.png": "/site/static/media/EventiBanner.625665b861a8ae5dcf2f.png",
+    "index.html": "/site/index.html",
+    "main.00e6f3f0.css.map": "/site/static/css/main.00e6f3f0.css.map",
+    "main.f80f20a3.js.map": "/site/static/js/main.f80f20a3.js.map",
+    "787.59520b8b.chunk.js.map": "/site/static/js/787.59520b8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00e6f3f0.css",
+    "static/js/main.f80f20a3.js"
+  ]
+}
