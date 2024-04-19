@@ -4,4 +4,9 @@ https://juneyoo.dev/projects
 https://juneyoo.dev/music
 https://juneyoo.dev/writing
 https://juneyoo.dev/writing/on-ai-and-hamasaki's-texhnolyze
-https://juneyoo.dev/writing/implementing-camera-movement-for-mobile-ar-applications-in-expo
+https://juneyoo.dev/writing/implementing-camera-movement-for-ar-mobile-apps-in-expo
+https://juneyoo.dev/projects/astrarium
+https://juneyoo.dev/projects/training-optical-music-recognition-models-on-semantic-agnostic-ground-truth-data
+https://juneyoo.dev/projects/eventi
+https://juneyoo.dev/projects/aniembed
+https://juneyoo.dev/projects/about-this-site
