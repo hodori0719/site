@@ -1,4 +1,4 @@
-I'm a composer[^1], arranger, and orchestrator. My orchestral works have been performed regularly by the [Davenport Pops Orchestra](http://www.dpops.com/performances/?mode=arranger&id=72), which I've led for 3 years, as well the [Austin Civic Orchestra](https://austincivicorchestra.org/), UT Pops Orchestra, [John Baxter Symphony](https://johnbaxtermusic.com/), and other orchestras around the country. I also frequently write for smaller ensembles, and some recordings of my work have gotten popular online.
+I'm a composer[^1], arranger, and orchestrator. My orchestral works have been performed regularly by the [Davenport Pops Orchestra](http://www.dpops.com/performances/?mode=arranger&id=72), which I've led for 3 years, as well the [Austin Civic Orchestra](https://austincivicorchestra.org/), UT Pops Orchestra, [John Baxter](https://johnbaxtermusic.com/)'s orchestra, and other orchestras around the country. I also frequently write for smaller ensembles, and some recordings of my work have gotten popular online.
 
 If you'd like to discuss borrowing or purchasing[^2] one of my scores, please email me; you can find my email address on LinkedIn.
 

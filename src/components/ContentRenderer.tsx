@@ -3,6 +3,7 @@ import Home from '../pages/Home.md';
 import Projects from '../pages/Projects.md';
 import Writing from '../pages/Writing.md';
 import Music from '../pages/Music.md';
+import Vita from '../pages/Vita.md';
 import Page from '../routes/Page';
 import { Route, Routes, Navigate } from 'react-router-dom';
 import { BlogIndex, ProjectIndex } from '../pages/BlogIndex';
@@ -25,6 +26,7 @@ const ContentRenderer = () => {
             <Routes>
                 <Route path="/" element={<Page markdown={Home}/>} />
                 <Route path="/about" element={<Navigate to="/"/>} />
+                <Route path="/vita" element={<Page markdown={Vita}/>} />
                 <Route path="/projects" element={<Page pagetitles={ProjTitles} markdown={Projects}/>}/>
                 <Route path="/writing" element={<Page pagetitles={BlogTitles} markdown={Writing}/>}/>
                 {BlogRoutes}
