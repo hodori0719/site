@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+<channel>
+  <title>June Yoo</title>
+  <link>https://juneyoo.dev/writing</link>
+  <description>June Yoo's personal blog</description>
+  <item>
+    <title>Implementing Camera Movement for AR Mobile Apps in Expo</title>
+    <link>https://juneyoo.dev/writing/implementing-camera-movement-for-ar-mobile-apps-in-expo</link>
+    <description>I've recently been working on Astrarium, a cross-platform mobile astronomy tool.</description>
+  </item>
+</channel>
+
+</rss>
