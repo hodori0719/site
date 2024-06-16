@@ -1,0 +1,9 @@
+*Note: I used mxNet rather than TF, but since Devicons (and Apache) doesn't support mxNet anymore, and I included TF example code, that's what I have under my title.*
+
+AniEmbed is a collection of Python scripts which generate content-agnostic neural-network embeddings of anime based on graph-structured data from the website [MyAnimeList.net](https://myanimelist.net). AniEmbed includes both a trainable neural network with a visualizer, the API download scripts for anime and anime rating data, and a simple web scraper for gathering MAL usernames.
+
+AniEmbed uses neural network embeddings based on Apache MXNet to represent anime as 50-dimensional vectors. These vectors are trained on a neural network which takes lists of user ratings as inputs; the closer a single user rated two anime together, the more "similar" they are. This similarity index is calculated using the geometric mean of the offsets of the userscores from the mean scores, to account for popularity bias. You can find a simplified TensorFlow version of the neural net definition in the repository, but this is untested.
+
+The closer the dot product of two anime vectors is to 1, the more similar they will be. Since the resulting matrix is of $n \times 50$ dimensions, $n$ being the number of titles, this is impossible to visualize normally; thus, these vectors are mapped onto two dimensions using [t-SNE](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding) for better visualization.
+
+An example visualization trained on the 100 top anime with 100000 user lists is shown above. Anime closer to each other will be more similar, and those farther will be less. Notice the shonen cluster on the left, for instance, and the slice-of-life cluster to the right.
