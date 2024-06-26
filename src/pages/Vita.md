@@ -2,7 +2,7 @@
 
 ## Spotify
 ### Software Engineer Intern
-*Jun 2024 - Aug 2024* · Data Platform for [Backstage](https://backstage.spotify.com)
+*Jun 2024 - Aug 2024* · [Backstage](https://backstage.spotify.com)
 
 ## Yale University
 ### Teaching Assistant

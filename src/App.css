@@ -120,6 +120,12 @@ h2 {
   font-family: "Cabin", sans-serif;
   font-weight: normal;
   font-size: 30px;
+  margin-top: 1.3em;
+}
+
+h3 {
+  margin-top: -.5em;
+  margin-bottom: -.5em;
 }
 
 .logo {
@@ -154,7 +160,13 @@ h2 {
 .content .pageTitle {
   padding-top: 2.5rem;
   border-top: 1px var(--lightGray) solid;
+  margin-block-end: 2.5rem;
 }
+
+.content .pageTitle:last-of-type {
+  margin-block-end: 1rem;
+}
+
 
 .content .pageTitle:first-of-type {
   padding-top: 0;
@@ -384,8 +396,7 @@ a .activeDot {
 }
 
 .metadata {
-  margin-top: -1.2rem;
-  margin-block-end: 2.5rem;
+  margin-top: -.8rem;
 }
 
 .content .blogTitle:first-child {
@@ -419,6 +430,7 @@ i {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  margin-bottom: 0.5rem;
 }
 
 .devicons-black {
@@ -451,7 +463,6 @@ i {
 
 .portalImg {
   overflow: hidden;
-  margin-top:1rem;
   margin-bottom: .5rem;
 }
 
