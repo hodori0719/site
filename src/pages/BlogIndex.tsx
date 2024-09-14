@@ -20,7 +20,7 @@ export const ProjectIndex: Blog[] = [
             date: "2024",
             isProject: true,
             tech: ["typescript-original", "react-original", "threejs-original", "python-plain", "flask-original", "sqlalchemy-plain", "postgresql-plain", "firebase-plain", "docker-plain"],
-            desc: "A cross-platform mobile app for astronomers to help them find and identify objects in the night sky and share observations with fellow stargazers.",
+            desc: "Helps astronomers discover objects in the night sky with a real-time AR & space modeling engine and share observations using a fully native social network.",
             imgSrc: "../assets/astrarium1.png",
         },
         markdown: require("./projects/astrarium.md"),

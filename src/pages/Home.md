@@ -1,5 +1,5 @@
-I'm a software developer based in NYC and, temporarily, New Haven, CT. I'm currently pursuing a BS/MS degree at Yale while interning at Spotify.
+I'm June, and I like computers. I'm currently pursuing a BS/MS in CS at Yale.
 
-I love building things—recently, I've been doing full-stack on web and mobile with React, TypeScript, and Python. I also have interests in ML/DL, graphics, and probabilistic algorithms, owing to my background in math.
+Previously, I interned as a software engineer at Spotify, where I worked on [Backstage](https://backstage.spotify.com) doing full-stack app dev. I'm also interested in systems (particularly graphics) and practical applications of probabilistic, randomized, \& approximation algorithms.
 
-I'm a musician and [composer](/music). 🎶 Other than that, I spend my time on film & film criticism, writing, graphic design, and Tetris.
+I'm a musician, [composer](/music), and huge classical nerd. 🎶 Other than that, I spend my time on all things creative: film, writing, & graphic design.

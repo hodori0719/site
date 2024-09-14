@@ -24,7 +24,8 @@
     "remark-math": "^6.0.0",
     "three": "^0.163.0",
     "typescript": "^4.9.5",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "yalies": "^0.1.0"
   },
   "scripts": {
     "predeploy": "npm run build",
