@@ -3,6 +3,7 @@ import Home from '../pages/Home.md';
 import Projects from '../pages/Projects.md';
 import Writing from '../pages/Writing.md';
 import Music from '../pages/Music.md';
+import Arranging from '../pages/Arranging.md';
 import Page from '../routes/Page';
 import { Route, Routes, Navigate } from 'react-router-dom';
 import { BlogIndex, ProjectIndex } from '../pages/BlogIndex';
