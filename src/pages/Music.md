@@ -1,9 +1,19 @@
-I'm a composer[^1], arranger, and orchestrator. My orchestral works have been performed regularly by the [Davenport Pops Orchestra](http://www.dpops.com/performances/?mode=arranger&id=72), which I've led for 3 years, as well the [Austin Civic Orchestra](https://austincivicorchestra.org/), UT Pops Orchestra, and high school orchestras around the country. I also frequently write for smaller ensembles, and some recordings of my work have gotten popular online.
+I'm a composer, arranger, and orchestrator. My orchestral works have been performed regularly by the [Davenport Pops Orchestra](http://www.dpops.com/performances/?mode=arranger&id=72), which I've led for 3 years, as well the [Austin Civic Orchestra](https://austincivicorchestra.org/), UT Pops Orchestra, and high school orchestras around the country. I also write for smaller chamber ensembles, now less frequently.
 
-If you'd like to discuss borrowing or purchasing[^2] one of my scores, please email me; you can find my email address on LinkedIn.
+My scores, listed below, are available for purchase[^1]; please email me through my address on LinkedIn.
 
 ## Selected Works
 
+Hisaishi, Joe — **Kiki's Delivery Service** 8' (2025)\
+_Orchestra_ 2.2.3\*.2as.1ts / 4.3.3.1euph.1 / t.4p / pf.hp / str\
+_Not yet performed_
+
+\
+Williams, John — **Somewhere in My Memory (from Home Alone)** 4' (2024)\
+_Orchestra_ 3\*.2.3\*.1as.1ts / 4.3.3.1euph.1 / t.4p / cel.hp / str\
+_Not yet performed_
+
+\
 Giacchino, Michael — **Le Festin (from Ratatouille)** 3' (2024)\
 _Orchestra_ 4\*.1.3\*.1as.1ts.1 / 4.3.3.1euph.1 / t.4p / pf.hp / str\
 Davenport Pops Orchestra @ Battell Chapel, New Haven CT, Apr 25, 2024
@@ -68,8 +78,7 @@ _Not yet performed_
 \
 Everhart, Nelson — **The Great Journey (from "Wizard101")** 2' (2020)\
 _Orchestra_ 3\*.2\*.2\*.2 / 4.2.3.1 / t.2p / cel.hp / str\
-_Not yet performed_[^3]
+_Not yet performed_[^2]
 
-[^1]: though classical violinist by training.
-[^2]: I happen to have many of my early (and often subpar) arrangements up on the score—sharing site [musescore.com](https://musescore.com/hodori), a few of which have reached quite a large audience. Several years ago, MuseScore made the unfortunate decision to paywall all of the work submitted by its own community. I won't discuss this incident here, but I largely resonate with [Bernard Greenberg's thoughts](https://bernardgreenberg.com/MuseScore.html) on this matter. Nevertheless, none of my scores can be downloaded for free anymore. I am committed to keeping them available to the internet; just contact me and I will send them to you. The exceptions are the large-scale orchestral compositions; i.e., The Little Mermaid Suite and the Minecraft Suite, for which I still charge case-by-case.
-[^3]: but it has been seen by the great Nelson Everhart himself!
+[^1]: I happen to have many of my early (and often subpar) arrangements up on the score—sharing site [musescore.com](https://musescore.com/hodori), a few of which have reached quite a large audience. Several years ago, MuseScore made the unfortunate decision to paywall all of the work submitted by its own community. I won't discuss this incident here, but I largely resonate with [Bernard Greenberg's thoughts](https://bernardgreenberg.com/MuseScore.html) on this matter. According to the statistics I have access to, MuseScore has likely earned several hundred dollars from distributing my work. Nonetheless I am committed to keeping them available to the internet; just contact me and I will send them to you free of charge.
+[^2]: but it has been discovered by the great Nelson Everhart himself!
