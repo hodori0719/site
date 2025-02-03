@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.380ddfce.css",
-    "main.js": "/static/js/main.ff2226ca.js",
+    "main.css": "/static/css/main.02ce07b7.css",
+    "main.js": "/static/js/main.eaf39943.js",
     "static/js/453.f6bfdf03.chunk.js": "/static/js/453.f6bfdf03.chunk.js",
     "static/media/omr.md": "/static/media/omr.3f8a39d662d6926d622d.md",
     "static/media/logo.svg": "/static/media/logo.131b86609e0f6f02ccf4fe232ecda807.svg",
     "static/media/2.md": "/static/media/2.1cc486c76489102b952c.md",
-    "static/media/Music.md": "/static/media/Music.29614e04c599adcc2557.md",
+    "static/media/Music.md": "/static/media/Music.7f9daf6a7b9a8d702605.md",
     "static/media/aniembed.md": "/static/media/aniembed.a92e381bc8eedbce3c1b.md",
     "static/media/eventi.md": "/static/media/eventi.073651aa1dcd778fc19c.md",
     "index.html": "/index.html",
     "static/media/astrarium.md": "/static/media/astrarium.8cae7f4923cc090a0775.md",
-    "static/media/Home.md": "/static/media/Home.1f1470ee8e12770cce6a.md",
-    "static/media/About.md": "/static/media/About.f95ea2c54886681735cc.md",
+    "static/media/Home.md": "/static/media/Home.3778656bbdd94f61d44c.md",
+    "static/media/About.md": "/static/media/About.16aa77a7a8ed6e8e370f.md",
     "static/media/Projects.md": "/static/media/Projects.31d6cfe0d16ae931b73c.md",
     "static/media/Writing.md": "/static/media/Writing.31d6cfe0d16ae931b73c.md",
-    "main.380ddfce.css.map": "/static/css/main.380ddfce.css.map",
-    "main.ff2226ca.js.map": "/static/js/main.ff2226ca.js.map",
+    "main.02ce07b7.css.map": "/static/css/main.02ce07b7.css.map",
+    "main.eaf39943.js.map": "/static/js/main.eaf39943.js.map",
     "453.f6bfdf03.chunk.js.map": "/static/js/453.f6bfdf03.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.380ddfce.css",
-    "static/js/main.ff2226ca.js"
+    "static/css/main.02ce07b7.css",
+    "static/js/main.eaf39943.js"
   ]
 }
